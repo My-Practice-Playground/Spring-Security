@@ -1,7 +1,7 @@
 package com.example.spring_security.user;
 
 
-import com.example.spring_security.role.Role;
+import com.example.spring_security.user.role.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
